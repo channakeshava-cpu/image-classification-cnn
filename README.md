@@ -1,28 +1,11 @@
-\# 🧠 Image Classification using CNN
+# 🧠 CNN Image Classification
 
+This project implements an **Image Classification** model using **Convolutional Neural Networks (CNNs)** with **TensorFlow/Keras**.
 
+---
 
-This project demonstrates a simple \*\*Convolutional Neural Network (CNN)\*\* built with TensorFlow to classify images from the CIFAR-10 dataset.
-
-
-
-\## 📦 Requirements
-
-Install dependencies:
+## 📦 Requirements
+Install the required libraries using:
 
 ```bash
-
 pip install -r requirements.txt
-
-
-
-\_\_pycache\_\_/
-
-\*.h5
-
-\*.pyc
-
-.ipynb\_checkpoints/
-
-
-
